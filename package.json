@@ -1,0 +1,35 @@
+{
+  "name": "hour25",
+  "author": "Thomas Cherry",
+  "version": "0.1.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "displayName": "25 Hour Day",
+    "uuid": "2ef241af-f9af-4f06-8073-e42bc21f5577",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+      "basalt",
+      "chalk",
+      "diorite",
+      "emery",
+      "flint",
+      "gabbro"
+    ],
+    "watchapp": {
+      "watchface": true
+    },
+    "resources": {
+      "media": [
+        {
+          "file": "images/icon.png",
+          "menuIcon": true,
+          "name": "IMAGE_MENU",
+          "type": "png"
+        }
+      ]
+    }
+  }
+}
