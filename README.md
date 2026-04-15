@@ -2,6 +2,8 @@
 
 A unique Pebble watchface that re-imagines time with a 25-hour clock system and a custom date display. This watchface divides the standard 24-hour day into 25 "hours," offering a distinct perspective on timekeeping.
 
+![Hour25 Watchface](assets/banner.png)
+
 ## Features
 
 *   **25-Hour Time Display:** The watchface converts standard time into a 25-hour format. This means a regular 24-hour day is conceptually divided into 25 "hours," where each hour, minute, and second is proportionally shorter than its standard counterpart (e.g., a "25-hour second" is 0.96 standard seconds long).
